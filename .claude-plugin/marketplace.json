@@ -1,0 +1,16 @@
+{
+  "name": "ddokham",
+  "description": "똑햄이 만드는 Claude Code 플러그인 모음",
+  "owner": {
+    "name": "똑햄"
+  },
+  "plugins": [
+    {
+      "name": "agent-blueprint",
+      "source": "./agent-blueprint",
+      "description": "질문 열한 개에 답하면 내 업무에 맞는 것이 스킬인지 도구인지 에이전트인지 판정하고, 기획서와 한 장짜리 설계도와 세팅 프롬프트를 만들어 준다. 코딩을 모르는 사람을 위해 만들었다.",
+      "category": "productivity",
+      "tags": ["설계도", "업무자동화", "기획", "인터뷰", "blueprint", "korean"]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+# 사용자 폴더에 생기는 산출물
+설계도/
+
+# 편집기·OS
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# 임시
+*.log
+*.tmp
+node_modules/
