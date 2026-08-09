@@ -1,0 +1,7 @@
+interface:
+  display_name: "설계도 HTML 그리기"
+  short_description: "정리된 설계 데이터를 HTML 설계도로 그립니다."
+  default_prompt: "$blueprint-draw로 정리된 설계 데이터를 HTML로 그려 주세요."
+
+policy:
+  allow_implicit_invocation: false

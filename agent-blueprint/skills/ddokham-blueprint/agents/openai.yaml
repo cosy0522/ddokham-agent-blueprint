@@ -1,0 +1,4 @@
+interface:
+  display_name: "에이전트 설계도"
+  short_description: "업무를 인터뷰해 알맞은 AI 구성을 설계합니다."
+  default_prompt: "$ddokham-blueprint로 내 업무 자동화 설계를 시작해 주세요."

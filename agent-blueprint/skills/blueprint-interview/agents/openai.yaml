@@ -1,0 +1,7 @@
+interface:
+  display_name: "설계도 인터뷰 원본"
+  short_description: "Codex 어댑터가 사용하는 업무 판정 원본입니다."
+  default_prompt: "$blueprint-interview로 업무 자동화 설계를 인터뷰해 주세요."
+
+policy:
+  allow_implicit_invocation: false
